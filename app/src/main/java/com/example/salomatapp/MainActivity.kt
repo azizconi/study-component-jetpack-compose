@@ -13,6 +13,7 @@ open class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
 
+            val image = 1
 
         }
     }
